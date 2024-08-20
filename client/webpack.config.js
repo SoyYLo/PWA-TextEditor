@@ -62,13 +62,13 @@ module.exports = () => {
           exclude: /node_modules/,
           use: {
             loader: 'babel-loader',
-            options: {
-              presets: ['@babel/present-env'],
-              plugins: [
-                '@babel/plugin-proposal-object-rest-spread',
-                '@babel/transform-runtime',
-              ],
-            },
+            // options: {
+            //   // presets: ['@babel/present-env'],
+            //   plugins: [
+            //     '@babel/plugin-proposal-object-rest-spread',
+            //     '@babel/transform-runtime',
+            //   ],
+            // },
           },
         },
       ],

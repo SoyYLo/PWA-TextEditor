@@ -36,12 +36,16 @@ THEN I should have proper build scripts for a webpack application
 - npm run start
 
 ## Screen shots 
+<img width="1384" alt="Screenshot 2024-08-19 at 10 35 05 PM" src="https://github.com/user-attachments/assets/65c5d526-384b-48ee-80de-d77901821bf9">
 
 ### Example
 
 ### Manifest.json file
+<img width="1371" alt="Screenshot 2024-08-19 at 10 36 03 PM" src="https://github.com/user-attachments/assets/99d825c2-f2a7-46af-9657-c38e59c8b195">
 
 ### IndexedDB Storage
+<img width="1376" alt="Screenshot 2024-08-19 at 10 36 57 PM" src="https://github.com/user-attachments/assets/5795f13d-fad3-4985-a18d-63ffddb611aa">
+
 
 ## Render Link
 

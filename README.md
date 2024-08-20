@@ -35,6 +35,14 @@ THEN I should have proper build scripts for a webpack application
 - npm install
 - npm run start
 
+## Screen shots 
+
+### Example
+
+### Manifest.json file
+
+### IndexedDB Storage
+
 ## Render Link
 
 https://pwa-texteditor-64jy.onrender.com
